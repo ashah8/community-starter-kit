@@ -1,11 +1,9 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
+It helps the users.
 ## What it does
 
-FEATURES PLACEHOLDER
-
+It has many features.
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
